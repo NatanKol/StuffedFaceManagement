@@ -1,6 +1,6 @@
 # Stuffed Face Ordering Co
 
-<p align="center"> <img src="https://giphy.com/embed/v61IRvPfyIyhW">
+<p align="center"> <img src="https://media.giphy.com/media/v61IRvPfyIyhW/giphy.gif">
 
 ## Summary: Stuffed Face is now looking at taking online orders.
 Your task is to be able to create these order items and inform the user of the total cost
