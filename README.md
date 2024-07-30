@@ -35,9 +35,16 @@ b.	Chips - 1.99
 12.	Your competitor tries to break your system by inputting invalid values, see if you can prevent this from occurring by handling any errors!
 13.	Challenge: There is a 1% chance the customer will get their order for free
 
-### Level 5: Customisation
+### Level 5: Burger central
 
-14. Customer's will now be able to customise their burgers, create a way where you can inherit from a super class of burger (e.g., Standard Beef, Double Cheese, Veggie). All served in a bun, with salad, gherkins and 'Stuffed Face Special Burger' sauce.
+14. Customers will now be able to order different types of burgers, create a way where you can inherit from a superclass of burger to create different sub-classes. All served in a bun, with lettuce, tomatoes, gherkins and 'Stuffed Face Special Burger' sauce.
+        - Standard Beef: 1x Beef burger (3.49)
+        - Standard Cheeseburger: 1 x Beef Burger, 1 x Cheese (3.99)
+        - Double Cheese: 2 x Beef Burger, 2 x Cheese (4.79)
+        - Veggie: 1 x Veggie Burger, 1 x Cheese (3.99)
+        - Veggie Deluxe: 2 x Veggie Burger, 2 x Cheese (4.79)
+        - Vegan: 1 x Veggie Burger, extra tomato, extra gherkins (3.89)
+        - Vegan Deluxe: 2 x Veggie Burger, extra tomato, extra gherkins (4.29)
 
 ### Level 6: Meals
 
