@@ -20,7 +20,7 @@ b.	Chips - 1.99
 ### Level 2: New items
 
 5.	Calculate and print the 10% service charge and add it to the total
-6.	Add a new menu item – Milkshake
+6.	Add a new menu item – Milkshake - 3.59
 7.	Create a new order with all items, Burger, Chips & Milkshake
 8.	Create a user input asking what they would like to order, then print out the cost
 
