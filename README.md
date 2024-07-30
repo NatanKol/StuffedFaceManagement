@@ -38,6 +38,7 @@ b.	Chips - 1.99
 ### Level 5: Burger central
 
 14. Customers will now be able to order different types of burgers, create a way where you can inherit from a superclass of burger to create different sub-classes. All served in a bun, with lettuce, tomatoes, gherkins and 'Stuffed Face Special Burger' sauce.
+
 | Products      | Ingredients                                     | Price |
 |---------------|-------------------------------------------------|-------|
 | Standard Beef | 1x Beef burger                                  | 3.49  |
