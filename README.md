@@ -30,9 +30,13 @@ b.	Chips - 1.99
 10.	Calculate the running total and summary of the items with service charge when the user has finished
 11.	Ask the user whether they want to add a service charge with 4 options No | 5% | 10% | 15%
 
-### Level 4: Extra Challenges
+### Level 4: Extra Challenges Pt.1
 
 12.	Your competitor tries to break your system by inputting invalid values, see if you can prevent this from occurring by handling any errors!
 13.	Challenge: There is a 1% chance the customer will get their order for free
+
+### Level 5: Extra Challenges Pt.2
+
+14. Customer's will now be able to customise their burgers, create a way where you can inherit from a super class of burger (e.g., Standard Beef, Double Cheese, Veggie). All served in a bun, with salad, gherkins and 'Stuffed Face Special Burger' sauce.
 
 
