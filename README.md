@@ -52,12 +52,22 @@ b.	Chips - 1.99
 ### Level 6: Meals
 
 15. The following menu items will be added, it would be useful to separate 'food' and 'drink' items
-    - Fountain Soft Drink (1.59)
-    - Can of Pop (1.29)
-    - Bottle of water (0.99)
-    - Bottle of Orange Juice (1.29)
-    - Tea (1.29)
-    - Coffees (Americano, Latte, Espresso, Cappuccino, Flat White) - (1.39)
-    - Seasoned Fries (1.49)
-    - Stuffed-Face Salad (1.39)
+
+| Cold Drinks            | Price |
+|------------------------|-------|
+| Fountain Soft Drink    | 1.59  |
+| Can of Pop             | 1.29  |
+| Bottle of Water        | 0.99  |
+| Bottle of Orange Juice | 1.29  |
+
+| Hot Drinks        | Price      |
+|-------------------|------------|
+| Tea               | 1.49       |
+| Americano         | 2.89       |
+| Latte             | 3.79       |
+| Espresso          | 1.59       |
+| Double Espresso   | 2.19       |
+| Cappuccino        | 3.29       |
+| Flat White        | 2.59       |
+
 16. The customer can now purchase a 'meal', consisting of one main (burger), one side (Chips, Seasoned Fries, Stuffed Face Salad), and one drink and the price will be 7.5% less than purchasing each item individually
