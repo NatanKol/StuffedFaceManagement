@@ -71,3 +71,7 @@ b.	Chips - 1.99
 | Flat White        | 2.59       |
 
 16. The customer can now purchase a 'meal', consisting of one main (burger), one side (Chips, Seasoned Fries, Stuffed Face Salad), and one drink and the price will be 7.5% less than purchasing each item individually
+
+### Level 7: Indecisive Customers
+
+17. Customers can never seem to make their mind up, they would like the option to remove items from their order.
